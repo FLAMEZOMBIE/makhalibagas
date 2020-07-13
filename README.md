@@ -1,5 +1,8 @@
 # Hallo 👋
 
+
+![Welcome](https://www.gambaranimasi.org/data/media/707/animasi-bergerak-selamat-datang-0291.gif)
+
 ### Hallo Semua, Saya Bagas Makhali
 
 Sekarang saya lagi fokus mendalami pemrogaman tentang android developer menggunakan bahasa java dan kotlin, saya suka share tentang android di [medium.com](https://medium.com/@makhalibagas) , Saya seorang yang fokus apabila saya benar-benar senang dalam menjalaninya dan saya senang mendalami tentang android developer.
