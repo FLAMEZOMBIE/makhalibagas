@@ -2,7 +2,6 @@
 
 ### Hallo Semua, Saya Bagas Makhali
 
- ⚡ Fun fact:
 Sekarang saya lagi fokus mendalami pemrogaman tentang android developer menggunakan bahasa java dan kotlin, saya suka share tentang android di [medium.com](https://medium.com/@makhalibagas) , Saya seorang yang fokus apabila saya benar-benar senang dalam menjalaninya dan saya senang mendalami tentang android developer.
 
 Sekian terima kasih, dan jangan lupa follow github saya :tada:
