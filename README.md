@@ -8,7 +8,7 @@
 Sekarang saya lagi fokus mendalami pemrogaman tentang android developer menggunakan bahasa java dan kotlin, saya suka share tentang android di [medium.com](https://medium.com/@makhalibagas) , Saya seorang yang fokus apabila saya benar-benar senang dalam menjalaninya dan saya senang mendalami tentang android developer.
 
 Sekian terima kasih, dan jangan lupa follow github saya
-![Bye](https://www.gambaranimasi.org/data/media/1645/animasi-bergerak-melambaikan-tangan-0044.gif)
+![Bye](https://www.gambaranimasi.org/data/media/1645/animasi-bergerak-melambaikan-tangan-0072.gif)
 
 <!--
 **makhalibagas/makhalibagas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
