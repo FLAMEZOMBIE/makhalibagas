@@ -1,26 +1,9 @@
-# Hallo 👋
+# Hallo There 👋
+
+![github stats](https://github-readme-stats.vercel.app/api?username=makhalibagas&show_icons=true)
+
+- 🔭 I’m currently working on [Simple Apps Social Media](https://github.com/makhalibagas/Aplikasi-Post)
+- 🌱 I’m currently learning Java and Koltin
+- :heavy_heart_exclamation: Focus on android developers 	
 
 
-![Welcome](https://www.gambaranimasi.org/data/media/707/animasi-bergerak-selamat-datang-0291.gif)
-
-### Hallo Semua, Saya Bagas Makhali
-
-Sekarang saya lagi fokus mendalami pemrogaman tentang android developer menggunakan bahasa java dan kotlin, saya suka share tentang android di [medium.com](https://medium.com/@makhalibagas) , Saya seorang yang fokus apabila saya benar-benar senang dalam menjalaninya dan saya senang mendalami tentang android developer.
-
-Sekian terima kasih, dan jangan lupa follow github saya
-![Bye](https://www.gambaranimasi.org/data/media/1645/animasi-bergerak-melambaikan-tangan-0072.gif)
-
-<!--
-**makhalibagas/makhalibagas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
