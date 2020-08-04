@@ -2,7 +2,7 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=makhalibagas&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makhalibagas&show_icons=true&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makhalibagas&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on [Aplikasi Paceebok](https://github.com/makhalibagas/Aplikasi-Paceebok)
 - 🌱 I’m currently learning Java and Koltin
