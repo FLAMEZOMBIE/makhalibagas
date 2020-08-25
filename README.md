@@ -18,3 +18,4 @@
 [![WhatsApp](https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/whatsapp-24.png)](https://wa.me/628313666691)
 
 
+<img src="https://komarev.com/ghpvc/?username=makhalibagas&color=blue&style=flat-square" align="right" />
