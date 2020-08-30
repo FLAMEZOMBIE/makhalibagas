@@ -2,15 +2,7 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=makhalibagas&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makhalibagas&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-- 🔭 I’m currently working on [Aplikasi Paceebok](https://github.com/makhalibagas/Aplikasi-Paceebok)
-- 🌱 I’m currently learning Java and Koltin
--  :heavy_heart_exclamation:    I’m android developers 	
-
-
-
-
+:tada: :tada: :tada: :tada: :tada:
 [![Linkedin](https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Linkedin-24.png)](https://www.linkedin.com/in/makhalibagas)
 [![Medium](https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-24.png)](https://medium.com/@makhalibagas)
 [![Blog](https://cdn1.iconfinder.com/data/icons/logotypes/32/blogger-24.png)](http://makhalibagas.blogspot.com)
