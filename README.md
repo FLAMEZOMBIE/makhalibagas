@@ -2,7 +2,8 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=makhalibagas&show_icons=true)
 
-:tada: :tada: :tada: :tada: :tada:
+# :tada: :tada: :tada: :tada: :tada:
+
 [![Linkedin](https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Linkedin-24.png)](https://www.linkedin.com/in/makhalibagas)
 [![Medium](https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-24.png)](https://medium.com/@makhalibagas)
 [![Blog](https://cdn1.iconfinder.com/data/icons/logotypes/32/blogger-24.png)](http://makhalibagas.blogspot.com)
